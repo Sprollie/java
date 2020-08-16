@@ -49,6 +49,8 @@ public class Main {
         // Nhập giá trị string
         String s = in.nextLine();
         String s = in.next();
+        
+        System.out.println("Test changes");
 
         /*
         không bị trôi có thể dùng
